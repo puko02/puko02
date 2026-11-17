@@ -85,23 +85,17 @@ Projeto de uma concessionária fictícia de veículos de luxo, com funcionalidad
 
 ## 🌎 Vamos nos conectar?
 
-Estou aberto a novas conexões, oportunidades profissionais, troca de conhecimentos e novos desafios.
+Estou aberto a novas conexões, oportunidades profissionais, troca de conhecimentos e novos desafios!
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/alexandro-augusto-a290382a1/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conecte--se comigo-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/puko02">
-    <img src="https://img.shields.io/badge/GitHub-Meus projetos-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+\<p align="center">   \<a href="[https://www.linkedin.com/in/alexandro-augusto-a290382a1/](https://www.linkedin.com/in/alexandro-augusto-a290382a1/)">     \<img src="[https://img.shields.io/badge/LinkedIn-Conecte--se](https://img.shields.io/badge/LinkedIn-Conecte--se) comigo-0A66C2?style=for-the-badge&logo=linkedin" />   \</a>   \<a href="[https://github.com/puko02](https://github.com/puko02)">     \<img src="[https://img.shields.io/badge/GitHub-Meus](https://img.shields.io/badge/GitHub-Meus) projetos-181717?style=for-the-badge&logo=github" />   \</a>   \<a href="[https://www.instagram.com/alexdev.br/](https://www.instagram.com/alexdev.br/)">     \<img src="[https://img.shields.io/badge/Instagram-Siga](https://img.shields.io/badge/Instagram-Siga) meu perfil-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />   \</a> \</p>
 
 ---
 
-<p align="center">
-  <i>"O aprendizado nunca termina. Cada projeto é uma oportunidade de evoluir."</i>
-</p>
+\<p align="center">
+&#x20; \<i>"O aprendizado nunca termina. Cada projeto é uma oportunidade de evoluir."\</i>
+\</p>
 
-<p align="center">
-  Obrigado pela visita! 🚀
-</p>
+\<p align="center">
+&#x20; Obrigado pela visita! 🚀
+\</p>
+
