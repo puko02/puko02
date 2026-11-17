@@ -1,3 +1,4 @@
+
 # 👋 Olá! Eu sou Alexandro Augusto
 
 ### 💻 Software Engineering Student | Developer
@@ -6,16 +7,28 @@
 
 ### 🛠️ Tecnologias
 
-\<p align="center">   \<img src="[https://skillicons.dev/icons?i=java,python,js,html,css,spring,mysql,postgres,git,github,docker,linux](https://skillicons.dev/icons?i=java,python,js,html,css,spring,mysql,postgres,git,github,docker,linux)" /> \</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,spring,mysql,postgres,git,github,docker,linux" />
+</p>
 
 ---
 
 ### 🌎 Conecte-se comigo
 
-\<p align="center">   \<a href="[https://www.linkedin.com/in/alexandro-augusto-a290382a1/](https://www.linkedin.com/in/alexandro-augusto-a290382a1/)">     \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />   \</a>   \<a href="[https://github.com/puko02](https://github.com/puko02)">     \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />   \</a>   \<a href="[https://www.instagram.com/alexdev.br/](https://www.instagram.com/alexdev.br/)">     \<img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)" />   \</a> \</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/alexandro-augusto-a290382a1/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/puko02">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/alexdev.br/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-\<p align="center">
-&#x20; 🚀 Sempre aprendendo, desenvolvendo e evoluindo!
-\</p>
+<p align="center">
+  🚀 Sempre aprendendo, desenvolvendo e evoluindo!
+</p>
